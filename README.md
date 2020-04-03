@@ -1,2 +1,3 @@
 # Investment-Findings
-A collection of findings from financial data
+
+Stream of thoughts and findings on financial data
